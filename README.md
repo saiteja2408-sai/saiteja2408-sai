@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @saiteja2408-sai
 - 👀 I’m interested in ...JAVA FULL STACK DEVELOPER
-- 🌱 I’m currently learning ...Technical skills which are used to become a fullstack developer-JAVA,MICROSERVICES,BOOTSTRAP
-- 💞️ I’m looking to collaborate on ...Projects of an organizations or to create a impact for contributing me 
-- 📫 How to reach me ... linkedin,github,mail-saitejameesala24@gmail.com
+- 🌱 I’m currently learning ...Technical skills which are used to become a fullstack developer-JAVA,MICROSERVICES,BOOTSTRAP,FULLSTACK
+- Technical Skills-Java, Full stack, Python, Data structures, SQL, HTML/CSS, R
+Frameworks: React, Node.js, Flask, WordPress
+Developer Tools: Git, Google Cloud Platform, VS Code, Visual Studio, Eclipse, Power Bi, Tableau, MS Excel
+Libraries: Pandas, NumPy, Matplotlib
+- 📫 How to reach me ...mail-saitejameesala24@gmail.com
 
 
 <!---
